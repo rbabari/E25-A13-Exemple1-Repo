@@ -1,1 +1,3 @@
-class hugo-test.java
+class hugo-test
+//...
+

@@ -22,6 +22,17 @@ nous pouvons utiliser aussi notre IDE pour cloner.
 un changement auquel j'associe un commentaire 
 j'associe une emprunte numerique pour s'assurer de l'authenticité ... 
 
+### 4- Créer une branche :
+la branche main : branche principale 
+une branche c'est une version depuis la branche main
+exercice : créer une branche branche-prenom et je crée un fichier prenom.java et commit mes changement 
+le tout au niveau du serveur 
+
+### 5- push / pull : 
+communications entre client et serveur ... 
+
+
+
   
 
 

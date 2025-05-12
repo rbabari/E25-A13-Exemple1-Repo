@@ -27,6 +27,7 @@ nous pouvons utiliser aussi notre IDE pour cloner.
 un changement auquel j'associe un commentaire
 j'associe une emprunte numerique pour s'assurer de l'authenticité ...
 
+
 ### 4- Créer une branche :
 
 la branche main : branche principale
@@ -37,3 +38,14 @@ le tout au niveau du serveur
 ### 5- push / pull :
 
 communications entre client et serveur ...
+
+### 6- Pull request
+
+demande de fusionner ta branche vers la branche principale (main ou une autre)
+### 7-Merge 
+fusionner
+
+## Illustration 
+
+<img src="Capture.png">
+
